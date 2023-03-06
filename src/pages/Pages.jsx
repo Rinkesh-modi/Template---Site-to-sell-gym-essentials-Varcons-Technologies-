@@ -22,5 +22,4 @@ const Pages = ({ productItems, addToCart, CartItem, shopItems }) => {
     </>
   )
 }
-// lawda ka site
 export default Pages
